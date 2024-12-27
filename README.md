@@ -1,2 +1,2 @@
 # IBM_DS_Assignment_StockRevenueDashboard
-Analyze historical stock and revenue data of a chosen company using Python and Jupyter Notebook. This project includes data cleaning, visualization, and building an interactive dashboard to explore insights. Aimed at improving data analysis and visualization skills through real-world datasets.
+This project focuses on analyzing the stock and revenue data of a chosen company. Through this hands-on assignment, students employ Python programming and data visualization techniques to derive insights and create interactive dashboards. The notebook systematically addresses tasks such as data retrieval, cleaning, exploration, visualization, and concluding insights. It is designed to enhance skills in handling real-world data scenarios.
